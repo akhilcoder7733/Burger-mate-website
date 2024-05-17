@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Burger-mate-website/static/css/main.ab85b8a4.css",
+    "main.js": "/Burger-mate-website/static/js/main.93b2d526.js",
+    "static/js/453.a512b29a.chunk.js": "/Burger-mate-website/static/js/453.a512b29a.chunk.js",
+    "static/media/nnnnnnnnnnnnneeeeeeeeee.jpg": "/Burger-mate-website/static/media/nnnnnnnnnnnnneeeeeeeeee.106ba68f066576a8b7ce.jpg",
+    "static/media/img (2).png": "/Burger-mate-website/static/media/img (2).3b40df897bc6ab32e242.png",
+    "static/media/user.png": "/Burger-mate-website/static/media/user.37c82b987a54da8952c7.png",
+    "index.html": "/Burger-mate-website/index.html",
+    "main.ab85b8a4.css.map": "/Burger-mate-website/static/css/main.ab85b8a4.css.map",
+    "main.93b2d526.js.map": "/Burger-mate-website/static/js/main.93b2d526.js.map",
+    "453.a512b29a.chunk.js.map": "/Burger-mate-website/static/js/453.a512b29a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab85b8a4.css",
+    "static/js/main.93b2d526.js"
+  ]
+}
